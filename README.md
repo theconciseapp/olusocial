@@ -106,7 +106,7 @@ contact us @theconciseapp@gmail.com, or whatsapp: +2348181317050
 <br>
 
 <h2>ADMIN PANEL</h2>
-https://yourwebsite.com/oluchat/admin
+https://yourwebsite.com/oc-admin
 <br>
 * <img src="https://github.com/theconciseapp/oluchat/blob/main/previews/Screenshot%202021-07-13%20at%2004-58-11%20Admin%20Panel.png?raw=true">
 <br>
