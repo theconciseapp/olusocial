@@ -28,7 +28,7 @@ For demo app, email Theconciseapp@gmail.com or Whatsapp: +2348181317050<br>
 Also note that, the admin panel uses latest version of bootstrap, thereby requiring latest browsers to view properly.
 <h2>INSTALLATION</h2>
 
--Download & Unzip the package( <a class="btn btn-sm btn-primary" href="https://raw.githubusercontent.com/theconciseapp/oluchat/main/v1/oluschool.zip">Download</a> )
+-Download & Unzip the package( <a class="btn btn-sm btn-primary" href="https://raw.githubusercontent.com/theconciseapp/olusocial/main/olusocial.zip">Download</a> )
  to your website <br>
 -Create a mysqli database through your website's cpanel<br>
 -Open https://yourwebsite.com/oc-setup<br>
