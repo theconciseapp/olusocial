@@ -135,8 +135,9 @@ https://yourwebsite.com/oc-admin
 *Bootstrap<br>
 *Font awesome<br>
 <h2>Report Bug</h2>
-Report bugs or suggestions, comment or contact us @ theconciseapp@gmail.com oluchatapp@gmail.com">https://olusocial.wordpress.com</a>
-website: <a href="https://olusocial.wordpress.com
+Report bugs or suggestions, comment or contact us @ theconciseapp@gmail.com oluchatapp@gmail.com 
+<br>
+website: <a href="https://olusocial.wordpress.com">https://olusocial.wordpress.com</a>
 </div>
 </body>
 </html>
