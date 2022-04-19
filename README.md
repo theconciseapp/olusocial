@@ -10,22 +10,31 @@
 
 <body>
 <div class="container">
-<h2># OluSocial/OluSchool v1.0</h2>
+<h2># OluSocial v1.0</h2>
 
-A new and easiest way to own an instant messaging app on android device or install for clients.
+OluSocial PHP software is the backend tool for OluSocial App ( made by The Concise Apps ) for individuals, schools, departments, organisation e.t.c. who want a quick platform for communication purposes via Android App.
 <br>
-<H2>Download Demo App</h2>
-For demo app, email Theconciseapp@gmail.com or Whatsapp: +2348181317050<br>
-<h3>Below is the server side script (PHP) for OluSchool social app for android.
+
+OluSocial PHP software itself is totally free, however, you will buy OluSocial Android App (designed for you) that comunicates with the software.
+
+<br>
+<h2>Where is OluSocial Android App applicable?</h2>
+•For blogging<br>
+•For news platform<br>
+•For tutorial platform<br>
+•For schools e.t.c.
+<br>
+
+<h3>
+Below is the server side requirement for OluSocial.
 </h3>
 <h2>REQUIREMENTS</h2>
--A good php web host (We recommend- [ ] )<br>
--PHP 7+<br>
+-A good php web host ( We recommend- [ ] )<br>
+-PHP 7.2+<br>
 -nd_mysqlnd extension enabled<br>
 -Microtime<br>
 -MySQL<br>
 <br>
-Also note that, the admin panel uses latest version of bootstrap, thereby requiring latest browsers to view properly.
 <h2>INSTALLATION</h2>
 
 -Download & Unzip the package( <a class="btn btn-sm btn-primary" href="https://raw.githubusercontent.com/theconciseapp/olusocial/main/olusocial.zip">Download</a> )
@@ -34,29 +43,33 @@ Also note that, the admin panel uses latest version of bootstrap, thereby requir
 -Open https://yourwebsite.com/oc-setup<br>
 -Fill in your database details<br>
 -Click Ok button to create necessary tables.<br>
-
 <br>
 !!!Done.
 
-#After installation, send your website url (i.e where you installed script )  via email to theconciseapp@gmail.com, oluchatapp@gmail.com, or whatsapp: +2348181317050 to acquire the android app for your clients, friends, family, students e.t.c for effective communication..
+<br>
 
-<h2>OluSocial/OluSchool APP FEATURES</h2>
+#After installation, send your website url (i.e where you installed script )  via email to theconciseapp@gmail.com to acquire the Android App at a decent price.
+<div class="text-danger">
+Don't worry, we will create a test app for you before payment.
+</div>
 
-*Messaging<br>
+<h2>OluSocial Android APP FEATURES</h2>
+
+*Two dimension page types (Social page, Messenger page)<br>
+*Make posts from from App and Admin panel, edit posts, delete, update page, delete page e.t.c.<br> 
+*Messaging: Comunicate with your customers, followers, readers, students e.t.c. depending on the purpose of your Android App.<br>
 *Send Voice messages<br>
 *Send videos, images, audio, documents (Maximum size:  15megabytes. Admin: Up to 100Megabytes )
 <br>
-*Lastseen<br>
-*Hide/show online status<br>
+*Customer, students, followers Lastseen<br>
 *Message sent indicator<br>
 *Message delivered indicator<br>
 *Message read indicator<br>
 *Forward message<br>
 *Copy message<br>
 *Profile<br>
-*Synchronised friends pins<br>
 *New message notification<br>
-*Messages (texts) are deleted from your server immediately upon delivery.<br>
+*Hide/unhide messages mistakenly sent<br>
 
 <h3>ADMIN PANEL</h3>
 <br>
@@ -75,15 +88,9 @@ Admin can: <br>
 <br>
 <h2>FEATURES NOT AVAILABLE(currently)</h2>
 *Calling
-<br>Perfect for your business.
+<br>
+Perfect for a business, fashion blogs, new platforms, school e.t.c.
 
-<br><br>
-<H2>Download Demo App</h2>
-Request/email theconciseapp@gmail.com or Whatsapp: +2348181317050
-<h2>APP(APK) COST</h2>
-contact us @theconciseapp@gmail.com, or whatsapp: +2348181317050
-<br>
-<br>
 <h2>#PREVIEWS</h2>
 
 * <img style="max-width: 450px;" src="https://github.com/theconciseapp/oluchat/blob/main/previews/Screenshot_20210606-195533.png?raw=true">
@@ -137,7 +144,6 @@ https://yourwebsite.com/oc-admin
 <h2>Report Bug</h2>
 Report bugs or suggestions, comment or contact us @ theconciseapp@gmail.com oluchatapp@gmail.com 
 <br>
-website: <a href="https://olusocial.wordpress.com">https://olusocial.wordpress.com</a>
 </div>
 </body>
 </html>
