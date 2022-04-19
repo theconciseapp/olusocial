@@ -91,27 +91,9 @@ Admin can: <br>
 <br>
 Perfect for a business, fashion blogs, new platforms, school e.t.c.
 
-<h2>#PREVIEWS</h2>
-
-* <img style="max-width: 450px;" src="https://github.com/theconciseapp/oluchat/blob/main/previews/Screenshot_20210606-195533.png?raw=true">
+<h2>#PICTURE PREVIEWS</h2>
 <br>
-* <img style="max-width: 450px;" src="https://github.com/theconciseapp/oluchat/blob/main/previews/Screenshot_20210607-092013.png?raw=true">
-<br>
-* <img src="max-width: 450px;" src="https://github.com/theconciseapp/oluchat/blob/main/previews/Screenshot_20210606-195533.png?raw=true">
-<br>
-* <img style="max-width: 450px;" src="https://github.com/theconciseapp/oluchat/blob/main/previews/Screenshot_20210607-091701.png?raw=true">
-<br>
-* <img style="max-width: 450px;" src="https://github.com/theconciseapp/oluchat/blob/main/previews/Screenshot_20210607-091834.png?raw=true">
-<br>
-* <img style="max-width: 450px;" src="https://github.com/theconciseapp/oluchat/blob/main/previews/Screenshot_20210720-235216.png?raw=true">
-<br>
-* <img src="max-width: 450px;" src="https://github.com/theconciseapp/oluchat/blob/main/previews/Screenshot_20210720-235230.png?raw=true">
-<br>
-* <img style="max-width: 450px;" src="https://github.com/theconciseapp/oluchat/blob/main/previews/Screenshot_20210607-093143.png?raw=true">
-<br>
-* <img style="max-width: 450px;" src="https://github.com/theconciseapp/oluchat/blob/main/previews/Screenshot_20210607-091815.png?raw=true">
-<br>
-
+goto: <a href="https://olusocial.wordpress.com">OluSocial.wordpress.com</a>
 <h2>ADMIN PANEL</h2>
 https://yourwebsite.com/oc-admin
 <br>
