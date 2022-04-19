@@ -94,28 +94,8 @@ Perfect for a business, fashion blogs, new platforms, school e.t.c.
 <h2>#PICTURE PREVIEWS</h2>
 <br>
 goto: <a href="https://olusocial.wordpress.com">OluSocial.wordpress.com</a>
-<h2>ADMIN PANEL</h2>
+<h2>OluSocial ADMIN Url</h2>
 https://yourwebsite.com/oc-admin
-<br>
-* <img src="https://github.com/theconciseapp/oluchat/blob/main/previews/Screenshot%202021-07-13%20at%2004-58-11%20Admin%20Panel.png?raw=true">
-<br>
-* <img src="https://github.com/theconciseapp/oluchat/blob/main/previews/Screenshot%202021-07-13%20at%2004-33-43%20Admin%20Panel_1.png?raw=true">
-<br>
-* <img src="https://github.com/theconciseapp/oluchat/blob/main/previews/Screenshot%202021-07-13%20at%2004-34-31%20Admin%20Panel_1.png?raw=true">
-<br>
-* <img src="https://github.com/theconciseapp/oluchat/blob/main/previews/Screenshot%202021-07-13%20at%2004-47-02%20Admin%20Panel_1.png?raw=true">
-<br>
-* <img src="https://github.com/theconciseapp/oluchat/blob/main/previews/Screenshot%202021-07-13%20at%2004-51-14%20Admin%20Panel_1.png?raw=true">
-<br>
-#SITE/APP SETTINGS
-<br>
-* <img src="https://github.com/theconciseapp/oluchat/blob/main/previews/Screenshot%202021-07-13%20at%2004-36-43%20Admin%20Panel.png?raw=true">
-
-#Manage chat files( delete old chat files to free space).
-<br>
-* <img src="https://github.com/theconciseapp/oluchat/blob/main/previews/Screenshot%202021-07-13%20at%2004-39-55%20Admin%20Panel.png?raw=true">
-<br>
-* <img src="https://github.com/theconciseapp/oluchat/blob/main/previews/Screenshot%202021-07-13%20at%2004-41-09%20Admin%20Panel_1.png?raw=true">
 
 <h2>Attibutes</h2>
 *TMP<br>
@@ -124,7 +104,7 @@ https://yourwebsite.com/oc-admin
 *Bootstrap<br>
 *Font awesome<br>
 <h2>Report Bug</h2>
-Report bugs or suggestions, comment or contact us @ theconciseapp@gmail.com oluchatapp@gmail.com 
+Report bugs or suggestions, comment or contact us @ theconciseapp@gmail.com
 <br>
 </div>
 </body>
