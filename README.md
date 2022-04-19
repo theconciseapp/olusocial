@@ -37,9 +37,9 @@ Below is the server side requirement for OluSocial.
 <br>
 <h2>INSTALLATION</h2>
 
--Download & Unzip the package( <a class="btn btn-sm btn-primary" href="https://raw.githubusercontent.com/theconciseapp/olusocial/main/olusocial.zip">Download</a> )
- to your website <br>
 -Create a mysqli database through your website's cpanel<br>
+-Download OluSocial & Unzip the package( <a class="btn btn-sm btn-primary" href="https://raw.githubusercontent.com/theconciseapp/olusocial/main/olusocial.zip">Download</a> )
+ to your website <br>
 -Open https://yourwebsite.com/oc-setup<br>
 -Fill in your database details<br>
 -Click Ok button to create necessary tables.<br>
@@ -48,7 +48,7 @@ Below is the server side requirement for OluSocial.
 
 <br>
 
-#After installation, send your website url (i.e where you installed script )  via email to theconciseapp@gmail.com to acquire the Android App at a decent price.
+#After successful installation, send your website url (i.e where you installed OluSocial scripts )  via email to theconciseapp@gmail.com to acquire the Android App at a decent price.
 <div class="text-danger">
 Don't worry, we will create a test app for you before payment.
 </div>
