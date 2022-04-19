@@ -93,7 +93,7 @@ Perfect for a business, fashion blogs, new platforms, school e.t.c.
 
 <h2>#PICTURE PREVIEWS</h2>
 <br>
-goto: <a href="https://olusocial.wordpress.com">OluSocial.wordpress.com</a>
+goto: <a href="https://olusocial.wordpress.com/2021/12/14/app-screenshots/">https://OluSocial.wordpress.com/2021/12/14/app-screenshots</a>
 <h2>OluSocial ADMIN Url</h2>
 https://yourwebsite.com/oc-admin
 
