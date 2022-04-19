@@ -12,7 +12,7 @@
 <div class="container">
 <h2># OluSocial v1.0</h2>
 
-OluSocial PHP software is the backend tool for OluSocial App ( made by The Concise Apps ) for individuals, schools, departments, organisation e.t.c. who want a quick platform for communication purposes via Android App.
+OluSocial PHP software is the backend tool for Android Apps powered by OluSocial ( made by The Concise Apps ) for individuals, schools, departments, organisation e.t.c. who want a quick platform for communication purposes via Android App.
 <br>
 
 OluSocial PHP software itself is totally free, however, you will buy OluSocial Android App (designed for you) that comunicates with the software.
