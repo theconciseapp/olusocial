@@ -101,8 +101,6 @@ Admin can: <br>
 <br>
 <h2>FEATURES NOT AVAILABLE(currently)</h2>
 *Calling
-<br>
-Perfect for a business, fashion blogs, new platforms, schools e.t.c.
 
 <h2>#PICTURE PREVIEWS</h2>
 <br>
