@@ -2,9 +2,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-
  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
 </head>
 
@@ -101,15 +99,15 @@ Admin can: <br>
 <br>
 <h2>FEATURES NOT AVAILABLE(currently)</h2>
 *Calling
-
-<h2>#PICTURE PREVIEWS</h2>
 <br>
+<h2>#PICTURE PREVIEWS</h2>
 goto: <a href="https://olusocial.wordpress.com/2021/12/14/app-screenshots/">https://OluSocial.wordpress.com/2021/12/14/app-screenshots</a>
 <h2>OluSocial ADMIN Url</h2>
 https://yourwebsite.com/oc-admin
 
 <h2>Attibutes</h2>
 *TMP<br>
+*Dennis Morozov<br>
 *Stackoverflow<br>
 *Mediaelement<br>
 *Bootstrap<br>
