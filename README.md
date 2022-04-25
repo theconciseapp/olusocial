@@ -12,7 +12,7 @@
 <div class="container">
 <h2># OluSocial v1.0</h2>
 
-OluSocial PHP software is the backend tool for Android Apps powered by OluSocial ( made by The Concise Apps ) for individuals, schools, departments, organisation e.t.c. who want a quick platform for communication purposes via Android App.
+OluSocial PHP software is the backend tool for Android Apps powered by OluSocial ( made by The Concise Apps & Games ) for individuals, schools, departments, organisation e.t.c. who want a quick platform for communication purposes via Android App.
 <br>
 
 OluSocial PHP software itself is totally free, however, you will buy OluSocial Android App (designed for you) that comunicates with the software.
@@ -33,7 +33,7 @@ Below is the server side requirement for OluSocial.
 -PHP 7.2+<br>
 -nd_mysqlnd extension enabled<br>
 -Microtime<br>
--MySQL<br>
+-MySQL Database<br>
 <br>
 <h2>INSTALLATION</h2>
 
@@ -55,13 +55,16 @@ Don't worry, we will create a test app for you before payment.
 
 <h2>OluSocial Android APP FEATURES</h2>
 
-*Two dimension page types (Social page, Messenger page)<br>
-*Make posts from from App and Admin panel, edit posts, delete, update page, delete page e.t.c.<br> 
-*Messaging: Comunicate with your customers, followers, readers, students e.t.c. depending on the purpose of your Android App.<br>
+*Two dimension page types ( Social page, Messenger page)<br>
+
+<h2>Messenger</h2>
+*Messenger Pages
+*Comments feature (single layer)
+*Messaging: Comunicate with customers, followers, readers, e.t.c. depending on the purpose of your Android App.<br>
 *Send Voice messages<br>
 *Send videos, images, audio, documents (Maximum size:  15megabytes. Admin: Up to 100Megabytes )
 <br>
-*Customer, students, followers Lastseen<br>
+*Lastseen<br>
 *Message sent indicator<br>
 *Message delivered indicator<br>
 *Message read indicator<br>
@@ -69,19 +72,29 @@ Don't worry, we will create a test app for you before payment.
 *Copy message<br>
 *Profile<br>
 *New message notification<br>
-*Hide/unhide messages mistakenly sent<br>
+*Hide/unhide sent messages<br>
+
+<h2>Social</h2>
+*Create pages/Categories
+*Write posts or articles, edit, delete, save, report
+*Post/article texts can be styled: Italise, bold, monospace, underline, large text, small text
+*Notifications
+*Comments features ( Two layers comments i.e comments, comment replies)
+*Comment notifications
 
 <h3>ADMIN PANEL</h3>
+<br>
+Admin panel can be accessed both from App or mobile browser or desktop by Admins
 <br>
 Admin can: <br>
 *View, delete, activate, add, block users<br>
 *Send message to users (Text, videos, audios, images & files up to 100Megabytes)<br>
 *Create, delete moderators(admins)<br>
-*Create verified accounts<br>
+*Create verified user accounts, pages<br>
 *Manage site space taken by chat videos, images, documents, audios<br>
 *Disable/Enable chat<br>
 *Disable/Enable sending of videos or documents<br>
-*Send message to all users, page, group at a single click.<br>
+*Broadcast: Send message to all users, page, group at a single click.<br>
 *Settings<br>
 *And lots more...
 <br>
@@ -89,7 +102,7 @@ Admin can: <br>
 <h2>FEATURES NOT AVAILABLE(currently)</h2>
 *Calling
 <br>
-Perfect for a business, fashion blogs, new platforms, school e.t.c.
+Perfect for a business, fashion blogs, new platforms, schools e.t.c.
 
 <h2>#PICTURE PREVIEWS</h2>
 <br>
