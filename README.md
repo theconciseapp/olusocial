@@ -56,8 +56,8 @@ Don't worry, we will create a test app for you before payment.
 *Two dimension page types ( Social page, Messenger page)<br>
 
 <h2>Messenger</h2>
-*Messenger Pages
-*Comments feature (single layer)
+*Messenger Pages<br>
+*Comments feature (single layer)<br>
 *Messaging: Comunicate with customers, followers, readers, e.t.c. depending on the purpose of your Android App.<br>
 *Send Voice messages<br>
 *Send videos, images, audio, documents (Maximum size:  15megabytes. Admin: Up to 100Megabytes )
@@ -73,12 +73,22 @@ Don't worry, we will create a test app for you before payment.
 *Hide/unhide sent messages<br>
 
 <h2>Social</h2>
-*Create pages/Categories
-*Write posts or articles, edit, delete, save, report
+*Pages/Categories<br>
+*Write posts or articles, edit, delete, save, report<br>
 *Post/article texts can be styled: Italise, bold, monospace, underline, large text, small text
+<br>
 *Notifications
+<br>
 *Comments features ( Two layers comments i.e comments, comment replies)
+<br>
 *Comment notifications
+<br>
+*Comment tagging
+<br>
+*Like posts, comments
+<br>
+*Share posts
+<br>
 
 <h3>ADMIN PANEL</h3>
 <br>
