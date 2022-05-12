@@ -32,13 +32,13 @@ Below is the server side requirement for OluSocial.
 -PHP 7.2+<br>
 -nd_mysqlnd extension enabled<br>
 -Microtime<br>
--MySQL Database<br>
+-MySQL Database 5.6+<br>
 -Apache
 <br>
 <h2>INSTALLATION</h2>
 
 -Create a mysqli database through your website's cpanel<br>
--Download OluSocial & Unzip the package( <!--<a style="display: none;" class="btn btn-sm btn-primary" href="https://raw.githubusercontent.com/theconciseapp/olusocial/main/olusocial.zip">Download</a> -->)
+-Download OluSocial & Unzip the package( <!--<a class="btn btn-sm btn-primary" href="https://raw.githubusercontent.com/theconciseapp/olusocial/main/olusocial.zip">Download</a> -->)
  to your website <br>
 -Open https://yourwebsite.com/oc-setup<br>
 -Fill in your database details<br>
