@@ -119,7 +119,7 @@ https://yourwebsite.com/oc-admin
 
 <h2>Attibutes</h2>
 *TMP<br>
-*Dennis Morozov<br>
+*App Builder team<br>
 *Stackoverflow<br>
 *Mediaelement<br>
 *Bootstrap<br>
